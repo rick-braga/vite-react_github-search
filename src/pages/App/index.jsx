@@ -8,10 +8,8 @@ import { useNavigate } from 'react-router-dom';
 const App = () => {
   const [login, setLogin] = useState('');
 
-  //13 usando useNavigate
   const navigate = useNavigate();
 
-  //14
   const handleSubmit = (e) => {
     e.preventDefault();
 
