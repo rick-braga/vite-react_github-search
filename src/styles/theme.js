@@ -36,9 +36,6 @@ export const theme = {
     container: '#2d2d2d',
     text: '#fff',
     link: '#3498db',
-
-    // Brands
-    devSamurai: '#f37272',
   },
   fonts: ['Open Sans', 'Arial', 'Helvetica', 'sans-serif'].join(','),
   fontSizes: {
