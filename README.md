@@ -1,4 +1,5 @@
 # vite-react_github-search
+Application in React to search repositories using the GitHub api
 
 ## Requirements
 
